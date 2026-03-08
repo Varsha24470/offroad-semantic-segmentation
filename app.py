@@ -1,5 +1,5 @@
 import os
-import torch
+import pytorch
 import numpy as np
 import cv2
 from pathlib import Path
@@ -432,4 +432,5 @@ It includes:
 This project demonstrates how **synthetic digital twin data** can be used to build computer vision systems for autonomous terrain understanding.
 
 It reduces the need for expensive real-world labeling while providing a scalable way to train segmentation models for off-road scenarios.
+
 """)
